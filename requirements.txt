@@ -1,0 +1,14 @@
+# API Testing
+pytest==8.3.3
+requests==2.32.3
+jsonschema==4.25.1
+pydantic==2.12.3
+
+# UI Testing
+selenium==4.25.0
+webdriver-manager==4.0.2
+selene==2.0.0rc9
+playwright==1.48.0
+
+# Дополнительно
+allure-pytest==2.13.5
